@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ethan-ryckebusch.github.io/agora-media/sitemap.xml
